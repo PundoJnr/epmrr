@@ -1,0 +1,18 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.eduwebparents"
+    },
+    "cordova-plugin-streaming-media": {
+      "PACKAGE_NAME": "com.eduwebparents"
+    }
+  },
+  "dependent_plugins": {}
+}

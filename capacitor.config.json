@@ -1,0 +1,33 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "eduwebparents",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {
+    "preferences": {
+      "ScrollEnabled": "false",
+      "android-minSdkVersion": "16",
+      "BackupWebStorage": "none",
+      "SplashMaintainAspectRatio": "true",
+      "SplashShowOnlyFirstTime": "false",
+      "KeyboardResize": "true",
+      "SplashScreen": "screen",
+      "UIWebViewBounce": "false",
+      "DisallowOverscroll": "true",
+      "SplashScreenDelay": "500",
+      "FadeSplashScreenDuration": "400",
+      "AutoHideSplashScreen": "true",
+      "FadeSplashScreen": "false",
+      "ShowSplashScreen": "false",
+      "webviewbounce": "false",
+      "loadUrlTimeoutValue": "1000",
+      "ShowSplashScreenSpinner": "true"
+    },
+    "plugins":{
+      "SplashScreen":{
+        "showSpinner": "true"
+      }
+    }
+  }
+}
